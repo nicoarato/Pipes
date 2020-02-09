@@ -34,4 +34,6 @@ export class AppComponent {
 
   nombre2 = "antonia RupErta López";
 
+  video = "gEPmA3USJdI?list=RDgEPmA3USJdI";
+
 }
